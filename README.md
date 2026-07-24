@@ -4,7 +4,5 @@ This Repository has everything of my 4 years of Bachelors of Technology in Elect
 
 
 
-24-07-2026
-
-Day 1: Starting my Git today.
+24-07-2026, Day 1: Starting my Git today.
 
