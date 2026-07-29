@@ -13,3 +13,5 @@ This Repository has everything of my 4 years of Bachelors of Technology in Elect
 27-07-2026, Day 0004.
 
 28-07-2026, Day 0005.
+
+29-07-2026, Day 0006.
