@@ -1,6 +1,6 @@
 # ec
 
-This Repository has everything of my 4 years of Bachelors of Technology in Electronics and Communication
+This Repository has everything of my 4 years of Bachelor of Technology in Electronics and Communication
 
 
 
