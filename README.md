@@ -17,3 +17,7 @@ This Repository has everything of my 4 years of Bachelors of Technology in Elect
 29-07-2026, Day 0006.
 
 30-07-2026, Day 0007: Completed a full week of Git daily
+
+31-07-2026, Day 0008.
+
+01-08-2026, Day 0009: Created my Linkedin Profile, https://www.linkedin.com/in/jkachiwala/
