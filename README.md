@@ -21,3 +21,5 @@ This Repository has everything of my 4 years of Bachelor of Technology in Electr
 31-07-2026, Day 0008.
 
 01-08-2026, Day 0009: Created my Linkedin Profile, https://www.linkedin.com/in/jkachiwala/
+
+02-08-2026, Day 0010.
